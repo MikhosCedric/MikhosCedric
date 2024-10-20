@@ -22,6 +22,8 @@ I'm a Computer Science student at De La Salle University, majoring in Software T
 Feel free to connect with me:
 - [LinkedIn](https://www.linkedin.com/in/mikhos-gumapos/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MikhosCedric=anuraghazra&show_icons=true&theme=radical)
+
 Thanks for visiting my profile!
 
 
