@@ -4,7 +4,7 @@ I'm a Computer Science student at De La Salle University, majoring in Software T
 
 ### 🎓 About Me
 - **Course:** BS Computer Science, Major in Software Technology
-- **Currently Learning:** AI/ML
+- **Currently Learning:** AI/ML, WebGL, Three.js
 - **Experience:** Web Development, Software Design, Project Collaboration
 
 ### 🚀 What I'm Up To
@@ -13,14 +13,10 @@ I'm a Computer Science student at De La Salle University, majoring in Software T
 - 🤓 Exploring **new technologies** to grow my skills.
 
 ### 💡 Tech Stack
-- **Languages:** Python, JavaScript, Java
+- **Languages:** Python, JavaScript, Java, C, C#
 - **Web Development:** HTML, CSS, React, Node.js
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, VSCode, Figma
-
-### ⚡ Fun Facts
-- 🏀 I have a background in basketball and still play when I can.
-- 👕 I'm into **2000s fashion** and enjoy collecting clothes.
 
 ### 📫 Get in Touch
 Feel free to connect with me:
