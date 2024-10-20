@@ -20,8 +20,8 @@ I'm a Computer Science student at De La Salle University, majoring in Software T
 
 ### 📫 Get in Touch
 Feel free to connect with me:
-- [LinkedIn](https://www.linkedin.com/in/mikhos-cedric-gumapos)
-- [Email](mailto:mikhos.cedric@example.com)
+- [LinkedIn]([https://www.linkedin.com/in/mikhos-cedric-gumapos](https://www.linkedin.com/in/mikhos-gumapos/))
+- [Email](mailto:mcgumapos@gmail.com)
 
 Thanks for visiting my profile!
 
