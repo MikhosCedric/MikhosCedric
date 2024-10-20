@@ -22,7 +22,7 @@ I'm a Computer Science student at De La Salle University, majoring in Software T
 Feel free to connect with me:
 - [LinkedIn](https://www.linkedin.com/in/mikhos-gumapos/)
 
-![Mikhos' GitHub stats](https://github-readme-stats.vercel.app/api?username=MikhosCedric&show_icons=true&theme=radical)
+![Mikhos' GitHub stats](https://github-readme-stats.vercel.app/api?username=MikhosCedric&show_icons=true&theme=transparent)
 
 Thanks for visiting my profile!
 
