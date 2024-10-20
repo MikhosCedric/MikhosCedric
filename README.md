@@ -17,9 +17,9 @@ I'm a Computer Science student at De La Salle University, majoring in Software T
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MikhosCedric&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MikhosCedric&theme=dark&hide_border=true)</br>
-<div style="text-align: center;">
+<center>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhosCedric&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-</div>
+</center>
 ### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
